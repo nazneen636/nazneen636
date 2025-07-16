@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nazneen Nahar Rima</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h3 align="center">A MERN Stack Developer</h3>
 
 - 🔭 I’m currently working on **A modern, user-friendly online shopping platform with essential e-commerce functionalities and also working on a dynamic full-stack community website tailored for a community.**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazneen Nahar Rima</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **A modern, user-friendly online shopping platform with essential e-commerce functionalities and also working on a dynamic full-stack community website tailored for the a community.**
+- 🔭 I’m currently working on **A modern, user-friendly online shopping platform with essential e-commerce functionalities and also working on a dynamic full-stack community website tailored for a community.**
 
 - 🌱 I’m currently learning **Node JS, Express JS, MongoDB**
 
